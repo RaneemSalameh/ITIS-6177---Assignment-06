@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "e319",
+      "title": "ITIS-6177",
+      "author": "Raneem Salameh"
+    },
+    {
+      "id": "46a1",
+      "title": "ITIS 3130",
+      "author": "Raneem"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
